@@ -1,0 +1,21 @@
+.box{
+    display: flex;
+    
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color:aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+.nav-bar-top{
+    max-width: 80%;
+    margin: 0 auto;
+    border: 2px solid black;
+    border-radius: 5px;
+    background: gray;
+}
